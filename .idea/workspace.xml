@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="044de395-199c-4fae-bcaf-b7c6ca4c289c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="044de395-199c-4fae-bcaf-b7c6ca4c289c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +39,8 @@
       <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-145">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="442">
+              <caret line="53" column="43" lean-forward="true" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
               <folding>
                 <element signature="e#204#205#0" expanded="true" />
                 <element signature="e#259#260#0" expanded="true" />
@@ -96,7 +92,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/xf/code_stu" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,57 +133,6 @@
             <path>
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -245,12 +190,12 @@
       <workItem from="1554199117853" duration="3150000" />
       <workItem from="1554789943466" duration="637000" />
       <workItem from="1554804514632" duration="4053000" />
-      <workItem from="1554990082374" duration="2486000" />
+      <workItem from="1554990082374" duration="2777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10326000" />
+    <option name="totallyTimeSpent" value="10617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="838" extended-state="6" />
@@ -278,7 +223,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3505007" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3505007" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" weight="0.32974428" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -412,10 +357,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/code-stu.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="442">
+          <caret line="53" column="43" lean-forward="true" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
           <folding>
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#259#260#0" expanded="true" />
