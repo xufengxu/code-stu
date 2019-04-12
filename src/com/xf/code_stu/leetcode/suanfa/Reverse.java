@@ -30,7 +30,7 @@ public class Reverse {
         System.out.println(reverse(1234667899));
     }
 
-    public static int reverse(int x) {
+    private static int reverse(int x) {
         int x1 = 0;
         int y = 0;
         if(x >> 31 != 0){
@@ -47,6 +47,7 @@ public class Reverse {
 
     }
 
+    //me
     private static int temp(int x1){
         String str = String.valueOf(x1);
 
@@ -60,6 +61,23 @@ public class Reverse {
             return y;
         }
         return y;
+    }
+
+    //答案
+    public int reverse2(int x) {
+        int rev = 0;
+        while (x != 0) {
+            int pop = x % 10;
+            x /= 10;
+            if (rev > Integer.MAX_VALUE/10 || (rev == Integer.MAX_VALUE / 10 && pop > 7)) {
+                return 0;
+            }
+            if (rev < Integer.MIN_VALUE/10 || (rev == Integer.MIN_VALUE / 10 && pop < -8)){
+                return 0;
+            }
+            rev = rev * 10 + pop;
+        }
+        return rev;
     }
 
 }
