@@ -1,4 +1,4 @@
-package com.xf.code_stu.leetcode.suanfa;
+package com.xf.codestu.leetcode.suanfa;
 
 /**
  * @program code-stu
