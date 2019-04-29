@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044de395-199c-4fae-bcaf-b7c6ca4c289c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/javabases/multithreading/VolatileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35b839c3f1e19c5a085a60fe975e11a14dcfe2e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47b14102fde0af4a561558b540e9a91a68f5c83c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7afce03c255538fade0b037467c201d298dab33d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3da56b7ef4c3e3524cb15617fcc4a0cb43ca477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/code-stu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-stu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/action/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/create/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/create/singleton/singleton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/structure/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/leetcode/suanfa/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/action/desc.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/action/desc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/desc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/singleton/singleton.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/structure/desc.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/structure/desc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,91 +41,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="设计模式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
+      <file leaf-file-name="zzz.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+            <state relative-caret-position="390">
+              <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="55" />
               <folding>
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="Singleton1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="651">
+              <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Test.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberFormatException.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="desc.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/desc.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="singleton.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/singleton/singleton.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="285">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -128,6 +131,17 @@
         <option value="$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/desc.md" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/singleton/singleton.md" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/singleton.md" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton1.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/javabases/multithreading/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java" />
       </list>
     </option>
   </component>
@@ -140,7 +154,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-322" />
     <option name="y" value="-1057" />
     <option name="width" value="1920" />
@@ -183,7 +197,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
@@ -191,8 +205,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
@@ -200,8 +214,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
               <item name="create" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -210,8 +224,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
               <item name="create" type="462c0819:PsiDirectoryNode" />
               <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -221,9 +235,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="design_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
@@ -231,8 +247,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton1" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
@@ -240,9 +259,36 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="code_stu" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton2" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xf" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton3" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xf" type="462c0819:PsiDirectoryNode" />
+              <item name="codestu" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton3" type="1a9f42e2:ClassTreeNode" />
+              <item name="SingletonInstance" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
@@ -250,61 +296,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="1a9f42e2:ClassTreeNode" />
             </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMap" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Map" type="1a9f42e2:ClassTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,7 +313,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="SonarLintApp" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -329,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="code-stu" />
@@ -337,8 +335,23 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xf.codestu.designpatterns.create.singleton.Test" />
+      <module name="code-stu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xf.codestu.designpatterns.create.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -359,7 +372,9 @@
       <workItem from="1554990082374" duration="2889000" />
       <workItem from="1555053019574" duration="271000" />
       <workItem from="1555056877793" duration="1466000" />
-      <workItem from="1555926196136" duration="4458000" />
+      <workItem from="1555926196136" duration="5087000" />
+      <workItem from="1556000556397" duration="582000" />
+      <workItem from="1556507369142" duration="9802000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1555053116325</created>
@@ -372,10 +387,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16924000" />
+    <option name="totallyTimeSpent" value="27937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-322" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -389,27 +405,27 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
-      <window_info anchor="right" id="JRebel Setup Guide" order="3" weight="0.32904148" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="3" weight="0.328541" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15654951" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15974441" />
       <window_info id="JRebel" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="8" weight="0.32974428" />
+      <window_info anchor="bottom" id="SonarLint" order="8" weight="0.32952183" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,35 +440,49 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>4</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="345">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        <state relative-caret-position="510">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -463,7 +493,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
@@ -473,7 +503,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/singleton/singleton.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="345">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
@@ -494,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="345">
@@ -511,7 +592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
@@ -521,7 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/singleton/singleton.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
@@ -531,18 +612,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="77" column="33" lean-forward="true" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
-          <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="315">
@@ -559,14 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,7 +650,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
@@ -587,7 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/singleton/singleton.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
@@ -597,7 +670,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="315">
@@ -607,7 +680,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
@@ -617,7 +690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/singleton/singleton.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
@@ -627,7 +700,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="30">
@@ -637,7 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/structure/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/structure/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -647,31 +720,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/action/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/action/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="11" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/singleton/singleton.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/create/desc.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
@@ -687,45 +740,6 @@
     <entry file="file://$PROJECT_DIR$/code-stu.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/design_patterns/设计模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -733,17 +747,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/code_stu/leetcode/suanfa/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="480">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3487">
+          <caret line="396" lean-forward="true" selection-start-line="396" selection-end-line="396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="60" column="6" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/javabases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/javabases/multithreading/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
