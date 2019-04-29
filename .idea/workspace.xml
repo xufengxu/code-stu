@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044de395-199c-4fae-bcaf-b7c6ca4c289c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/desc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xf/codestu/javabases/multithreading/VolatileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35b839c3f1e19c5a085a60fe975e11a14dcfe2e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47b14102fde0af4a561558b540e9a91a68f5c83c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7afce03c255538fade0b037467c201d298dab33d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3da56b7ef4c3e3524cb15617fcc4a0cb43ca477" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-stu/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/action/desc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/create/desc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/create/singleton/singleton.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/structure/desc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/design_patterns/设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-stu/com/xf/code_stu/leetcode/suanfa/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/action/desc.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/action/desc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/desc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/create/singleton/singleton.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/structure/desc.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/structure/desc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/design_patterns/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/leetcode/suanfa/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,16 +17,16 @@
       <file leaf-file-name="zzz.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="39" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="33" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -77,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Singleton2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -142,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/com/xf/codestu/javabases/multithreading/VolatileTest.java" />
         <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java" />
         <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton2.java" />
+        <option value="$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md" />
       </list>
     </option>
   </component>
@@ -245,55 +219,6 @@
               <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-stu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="codestu" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="create" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton1" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="codestu" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="create" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton2" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="codestu" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="create" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton3" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xf" type="462c0819:PsiDirectoryNode" />
-              <item name="codestu" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="create" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton3" type="1a9f42e2:ClassTreeNode" />
-              <item name="SingletonInstance" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="code-stu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-stu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
@@ -374,7 +299,7 @@
       <workItem from="1555056877793" duration="1466000" />
       <workItem from="1555926196136" duration="5087000" />
       <workItem from="1556000556397" duration="582000" />
-      <workItem from="1556507369142" duration="9802000" />
+      <workItem from="1556507369142" duration="11229000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1555053116325</created>
@@ -387,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27937000" />
+    <option name="totallyTimeSpent" value="29364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-322" y="-1057" width="1920" height="1057" extended-state="6" />
@@ -834,29 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="55" />
-          <folding>
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -879,6 +781,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/zzz.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="33" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xf/codestu/designpatterns/create/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
